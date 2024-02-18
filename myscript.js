@@ -1,4 +1,5 @@
 "use strict";
+const myappname = "itsmyapp";
 const App = {
     IsNull(data) {
         return typeof data === "undefined"
